@@ -133,7 +133,7 @@ as well as
     K. Birgitta Whaley, H. Lee Woodcock III, Paul M. Zimmerman, Shirin Faraji, Peter M. W. Gill,
     Martin Head-Gordon, John M. Herbert, and Anna I. Krylov.
     *Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package*.
-    `The Journal of Chemical Physics <https://aip.scitation.org/doi/10.1063/5.0055522>`__.
+    `DOI: 10.1063/5.0055522 <https://aip.scitation.org/doi/10.1063/5.0055522>`__.
     2017.
 
 We are happy to include future contributors as authors on later OpenFermion releases.
