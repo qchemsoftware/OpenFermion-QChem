@@ -27,7 +27,7 @@ To use OpenFermion/Q-CHEM interface:
 
 PyPI releases soon to be available.
 
-Please take a look at the `ipython notebook demo <https://github.com/qchemsoftware/OpenFermion-QChem/blob/main/examples/Openfermion-Qchem.ipynb>`__.
+Please take a look at the `ipython notebook demo <https://github.com/qchemsoftware/OpenFermion-QChem/blob/main/examples/Openfermion-Qchem.ipynb>`__ and general description of `OpenFermion/Q-CHEM v1.0 <https://github.com/qchemsoftware/OpenFermion-QChem/blob/main/examples/OpenFermion-QCHEM_v1.0.pdf>`__.
 
 Authors
 -------
