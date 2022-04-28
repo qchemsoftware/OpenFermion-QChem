@@ -1,12 +1,33 @@
-OpenFermion/Q-CHEM
+Q-CHEM interfaced with OpenFermion
 =================
 
 `OpenFermion <http://openfermion.org>`__ is an open source library (licensed under Apache 2) for compiling and analyzing quantum algorithms which simulate fermionic systems.
 This plugin library allows the electronic structure package `Q-CHEM <https://www.q-chem.com>`__ to interface with OpenFermion.
 Users who want to use OpenFermion/Q-CHEM interface need to obtain Q-CHEM software and agree to the Q-CHEM lisence separately.
 
+Requirements
+------------
+- Q-CHEM 5.4+
+- OpenFermion 1.3+
+
 Installation
 ------------
+To use OpenFermion/Q-CHEM interface:
+
+Install Q-CHEM: `https://www.q-chem.com/install <https://www.q-chem.com/install>`__
+Install OpenFermion: `https://github.com/quantumlib/OpenFermion <https://github.com/quantumlib/OpenFermion>`__
+Install OpenFermion/Q-CHEM:
+
+.. code-block:: bash
+
+  git clone https://github.com/qchemsoftware/OpenFermion-QChem.git
+  cd OpenFermion-QChem
+  python -m pip install -e .
+
+PyPI releases soon to be available.
+
+Please take a look at the `ipython notebook demo <https://github.com/qchemsoftware/OpenFermion-QChem/blob/main/examples/Openfermion-Qchem.ipynb>`__.
+
 
 How to contribute
 -----------------
