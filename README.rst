@@ -15,7 +15,9 @@ Installation
 To use OpenFermion/Q-CHEM interface:
 
 Install Q-CHEM: `https://www.q-chem.com/install <https://www.q-chem.com/install>`__
+
 Install OpenFermion: `https://github.com/quantumlib/OpenFermion <https://github.com/quantumlib/OpenFermion>`__
+
 Install OpenFermion/Q-CHEM:
 
 .. code-block:: bash
