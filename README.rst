@@ -9,7 +9,6 @@ Requirements
 ------------
 - Q-CHEM 5.4+
 - OpenFermion 1.3+
-- all requirements for the aforementioned programs
 
 Installation
 ------------
