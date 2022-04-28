@@ -1,0 +1,17 @@
+SP        R                             STO-3G              
+Number of atoms                            I                2
+Charge                                     I                0
+Multiplicity                               I                1
+Number of electrons                        I                2
+Number of alpha electrons                  I                1
+Number of beta electrons                   I                1
+Current cartesian coordinates              R   N=           6
+  0.00000000E+00  0.00000000E+00 -7.08647297E-01  0.00000000E+00  0.00000000E+00
+  7.08647297E-01
+Nuclear charges                            R   N=           2
+  1.00000000E+00  1.00000000E+00
+Number of basis functions                  I                2
+Core Hamiltonian Matrix                    R   N=           3
+ -1.11450934E+00 -9.47668283E-01 -1.11450934E+00
+Alpha MO coefficients                      R   N=           4
+ -5.49926604E-01 -5.49926604E-01 -1.20096196E+00  1.20096196E+00

@@ -1,0 +1,16 @@
+$comment
+Hydrogen molecule
+$end
+
+$molecule
+0 1
+H 0.0 0.0 0.0
+H 0.0 0.0 1.80 
+$end
+
+$rem
+method = ccsd
+basis = sto-3g
+print_qis = true
+gui = 2
+$end

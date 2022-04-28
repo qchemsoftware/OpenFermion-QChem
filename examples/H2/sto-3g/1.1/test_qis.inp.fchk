@@ -1,0 +1,61 @@
+Jobname.Temp
+SP        R                             STO-3G              
+Number of atoms                            I                2
+Charge                                     I                0
+Multiplicity                               I                1
+Number of electrons                        I                2
+Number of alpha electrons                  I                1
+Number of beta electrons                   I                1
+Atomic numbers                             I   N=           2
+           1           1
+Current cartesian coordinates              R   N=           6
+  0.00000000E+00  0.00000000E+00 -1.03934937E+00  0.00000000E+00  0.00000000E+00
+  1.03934937E+00
+Nuclear charges                            R   N=           2
+  1.00000000E+00  1.00000000E+00
+Number of basis functions                  I                2
+Number of contracted shells                I                2
+Number of primitive shells                 I                6
+Highest angular momentum                   I                0
+Largest degree of contraction              I                3
+Shell types                                I   N=           2
+           0           0
+Number of primitives per shell             I   N=           2
+           3           3
+Shell to atom map                          I   N=           2
+           1           2
+Primitive exponents                        R   N=           6
+  3.42525091E+00  6.23913730E-01  1.68855400E-01  3.42525091E+00  6.23913730E-01
+  1.68855400E-01
+Contraction coefficients                   R   N=           6
+  1.54328971E-01  5.35328142E-01  4.44634542E-01  1.54328971E-01  5.35328142E-01
+  4.44634542E-01
+Coordinates of each shell                  R   N=           6
+  0.00000000E+00  0.00000000E+00 -1.03934937E+00  0.00000000E+00  0.00000000E+00
+  1.03934937E+00
+Overlap Matrix                             R   N=           3
+  1.00000000E+00  4.39586409E-01  1.00000000E+00
+Core Hamiltonian Matrix                    R   N=           3
+ -9.37679053E-01 -5.93163275E-01 -9.37679053E-01
+Orbital Coefficients CCMAN2 Alpha          R   N=           4
+  5.89340291E-01  5.89340291E-01 -9.44562441E-01  9.44562441E-01
+Number of independent functions            I                2
+Alpha MO coefficients                      R   N=           4
+  5.89340291E-01  5.89340291E-01 -9.44562441E-01  9.44562441E-01
+Alpha Orbital Energies                     R   N=           2
+ -4.54218694E-01  3.96695912E-01
+Total SCF Density                          R   N=           3
+  6.94643957E-01  6.94643957E-01  6.94643957E-01
+Pure Switching                             I                1
+Dipole_Data                                R   N=           3
+  0.00000000E+00  0.00000000E+00 -2.45027431E-17
+Quadrupole_Data                            R   N=           6
+ -1.89064562E+00  0.00000000E+00 -1.89064562E+00  0.00000000E+00  0.00000000E+00
+ -1.17666879E+00
+Octapole_Data                              R   N=          10
+  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00
+  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00 -2.74458676E-17
+Hexadecapole_Data                          R   N=          15
+ -1.59256579E+00  0.00000000E+00 -5.30855263E-01  0.00000000E+00 -1.59256579E+00
+  0.00000000E+00  0.00000000E+00  0.00000000E+00  0.00000000E+00 -9.22904956E-01
+  0.00000000E+00 -9.22904956E-01  0.00000000E+00  0.00000000E+00 -3.69881662E+00
