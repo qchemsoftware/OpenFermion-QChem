@@ -3,7 +3,7 @@ Q-CHEM interfaced with OpenFermion
 
 `OpenFermion <http://openfermion.org>`__ is an open source library (licensed under Apache 2) for compiling and analyzing quantum algorithms which simulate fermionic systems.
 This plugin library allows the electronic structure package `Q-CHEM <https://www.q-chem.com>`__ to interface with OpenFermion.
-Users who want to use OpenFermion/Q-CHEM interface need to obtain Q-CHEM software and agree to the Q-CHEM lisence separately.
+Users who want to use OpenFermion/Q-CHEM interface need to obtain Q-CHEM software and agree to the Q-CHEM license separately.
 
 Requirements
 ------------
